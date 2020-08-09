@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "browsercontrol_agent", "browsercontrol_agent\browsercontrol_agent.vcxproj", "{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Debug|x64.ActiveCfg = Debug|x64
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Debug|x64.Build.0 = Debug|x64
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Debug|x86.Build.0 = Debug|Win32
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Release|x64.ActiveCfg = Release|x64
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Release|x64.Build.0 = Release|x64
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Release|x86.ActiveCfg = Release|Win32
+		{9E7AA842-1BE1-47C2-BC4B-3F91C05DF18E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803000A4-7AF8-4CCF-9136-5B42DD4B459A}
+	EndGlobalSection
+EndGlobal
